@@ -1,0 +1,4 @@
+bug:
+    se schiaccio 2 volte di fila x o / mi torna da errori.
+
+
